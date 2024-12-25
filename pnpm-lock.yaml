@@ -96,7 +96,7 @@ importers:
         specifier: 1.0.3
         version: link:../../packages/provider
       '@ai-sdk/togetherai':
-        specifier: 0.0.14
+        specifier: 0.0.15
         version: link:../../packages/togetherai
       '@ai-sdk/xai':
         specifier: 1.0.14
